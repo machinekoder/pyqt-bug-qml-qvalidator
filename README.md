@@ -1,1 +1,1 @@
-# Demonstrates a problem when using QQuickItem and PyQt
+# Demonstrates a problem when using QValidator with QML and PyQt
